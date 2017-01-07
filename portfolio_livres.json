@@ -148,6 +148,30 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "les-trois-extases-1.jpg",
+        "inLanguage": "French",
+        "name": "Les trois extases \u2014 Première extase \u2014 Un homme pressé",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1511774940/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "les-trois-extases-2.jpg",
+        "inLanguage": "French",
+        "name": "Les trois extases \u2014 Première extase \u2014 Une femme passionnée",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1512323101/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
         "author": "Charlotte Guignard",
         "bookFormat": "http://schema.org/Paperback",
         "datePublished": "2016-08-25",
