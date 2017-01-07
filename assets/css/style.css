@@ -20,14 +20,16 @@ h1 {
 }
 
 div.livre-out {
-	/*border: 1px solid grey;*/
 }
 div.livre-in {
-	/*border: 1px solid grey;*/
 	padding: 20px 0;
 }
-
-div.livre-in img {
-	max-height: 300px;
+div.myfigure {
+	max-width: 186px;
 	margin: 0 auto;
+}
+div.myfigure img {
+	max-width: 100%;
+	margin: 0 auto;
+	height: 286px;
 }

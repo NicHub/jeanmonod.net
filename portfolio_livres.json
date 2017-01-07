@@ -2,41 +2,6 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
-        "author": "Rosemonde Rossel",
-        "bookFormat": "http://schema.org/EBook",
-        "datePublished": "2011-11-11",
-        "editor": "Nicolas Jeanmonod",
-        "image": "sensdesprenoms.jpg",
-        "inLanguage": "French",
-        "name": "Le sens des prénoms en transgénérationnel",
-        "numberOfPages": "",
-        "offers": {
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "29",
-            "priceCurrency": "CHF"
-        },
-        "publisher": "Rosemonde Rossel",
-        "url": "http://sensdesprenoms.com/ebook.html"
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Book",
-        "author": "Annick Louis",
-        "bookFormat": "http://schema.org/Paperback",
-        "datePublished": "2014-03-27",
-        "editor": "Nicolas Jeanmonod",
-        "image": "accident.jpg",
-        "inLanguage": "French",
-        "isbn": "1291690700",
-        "name": "Accident",
-        "numberOfPages": "132",
-        "publisher": "Amazon",
-        "url": "https://www.amazon.fr/Accident-Annick-LOUIS-ebook/dp/B00H267IUA"
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "Book",
         "author": "Jean-Philippe Touzeau",
         "bookFormat": "http://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
@@ -135,6 +100,54 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "spirale-1.jpg",
+        "inLanguage": "French",
+        "name": "La femme sans peur (Vol. 1\u20133): Spirale 1",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1500173363/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "spirale-2.jpg",
+        "inLanguage": "French",
+        "name": "La femme sans peur (Vol. 4\u20136): Spirale 2",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1519223501/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "lfsp-de-01.jpg",
+        "inLanguage": "German",
+        "name": "Angstlos \u2013 Band 1",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1503946266/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "lfsp-de-02.jpg",
+        "inLanguage": "German",
+        "name": "Angstlos \u2013 Band 2",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B00LAW8V9E/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
         "author": "Charlotte Guignard",
         "bookFormat": "http://schema.org/Paperback",
         "datePublished": "2016-08-25",
@@ -151,6 +164,65 @@
             "priceCurrency": "EUR"
         },
         "publisher": "Amazon",
-        "url": "http://osonsnousreveler.com/livre.html"
+        "url": "https://www.amazon.fr/dp/1534956824"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Annick Louis",
+        "bookFormat": "http://schema.org/Paperback",
+        "datePublished": "2014-03-27",
+        "editor": "Nicolas Jeanmonod",
+        "image": "accident.jpg",
+        "inLanguage": "French",
+        "isbn": "1291690700",
+        "name": "Accident",
+        "numberOfPages": "132",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1291690700/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Lætitia Stucki",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "cours-autohypnose.jpg",
+        "inLanguage": "French",
+        "name": "Cours d\u2019autohypnose",
+        "publisher": "Lulu",
+        "url": "http://laetitia-stucki.ch/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Rosemonde Rossel",
+        "bookFormat": "http://schema.org/EBook",
+        "datePublished": "2011-11-11",
+        "editor": "Nicolas Jeanmonod",
+        "image": "sensdesprenoms.jpg",
+        "inLanguage": "French",
+        "name": "Le sens des prénoms en transgénérationnel",
+        "numberOfPages": "",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "29",
+            "priceCurrency": "CHF"
+        },
+        "publisher": "Rosemonde Rossel",
+        "url": "http://sensdesprenoms.com/ebook.html"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Beatrice Jörg",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "brins_de_poesie.jpg",
+        "inLanguage": "French",
+        "name": "Brins de poésie",
+        "publisher": "Lulu",
+        "url": "http://www.lulu.com/shop/product-22215840.html"
     }
 ]
