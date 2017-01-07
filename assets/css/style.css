@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Source+Sans+Pro:300,400,600');
+
+/*
+
+*/
+
+
+body {
+	font-family: "Source Sans Pro", monospace;
+	padding-top: 70px;
+	color: rgb( 80, 80, 80 );
+	text-align: justify;
+	font-size: 15pt;
+	font-weight: 300;
+}
+
+
+h1 {
+	text-transform: uppercase;
+}
+
+div.livre-out {
+	/*border: 1px solid grey;*/
+}
+div.livre-in {
+	/*border: 1px solid grey;*/
+	padding: 20px 0;
+}
+
+div.livre-in img {
+	max-height: 300px;
+	margin: 0 auto;
+}
