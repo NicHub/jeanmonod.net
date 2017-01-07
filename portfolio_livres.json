@@ -248,5 +248,17 @@
         "name": "Brins de poésie",
         "publisher": "Lulu",
         "url": "http://www.lulu.com/shop/product-22215840.html"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Magaly Gutschelhofer",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "accepter_l_inacceptable.png",
+        "inLanguage": "French",
+        "name": "Accepter l’innaceptable",
+        "publisher": "Éditions Mon Village",
+        "url": "http://www.editions-monvillage.ch/?page=catalogue&art=livre&id=237"
     }
 ]
