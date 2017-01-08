@@ -12,9 +12,9 @@ body {
 main {
 	min-width: 500px;
 }
-noscript {
+.alerte, noscript {
 	color: firebrick;
-	font-size: 50px;	
+	font-size: 50px;
 }
 noscript div {
     margin-top: 50px;
