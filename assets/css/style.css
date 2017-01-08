@@ -9,25 +9,30 @@ body {
 	font-size: 15pt;
 	font-weight: 300;
 }
+main {
+	min-width: 500px;
+}
 h1 {
 	text-transform: uppercase;
 }
 div.livre-out {
 }
 div.livre-in {
-	padding: 20px 0;
-	/*margin-bottom: 20px;*/
+	padding: 45px 0;
 }
 div.myfigure {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-	max-width: 186px;
+	width: 200px;
+	height: 300px;
 	margin: 0 auto;
+	padding: 0;
 }
 div.myfigure img {
-	max-width: 100%;
-	margin: 0 auto;
-	height: 286px;
+	width: 200px;
+	height: 300px;
+	object-fit: cover;
 }
 nav .fa {
-    font-size: 50px;
+	font-size: 50px;
 }
+

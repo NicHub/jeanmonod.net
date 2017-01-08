@@ -172,23 +172,22 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
-        "author": "Charlotte Guignard",
-        "bookFormat": "http://schema.org/Paperback",
-        "datePublished": "2016-08-25",
+        "author": "Rosemonde Rossel",
+        "bookFormat": "http://schema.org/EBook",
+        "datePublished": "2011-11-11",
         "editor": "Nicolas Jeanmonod",
-        "image": "osons_nous_reveler-couverture.jpg",
+        "image": "sensdesprenoms.jpg",
         "inLanguage": "French",
-        "isbn": "1534956824",
-        "name": "Osons nous révéler \u2014 Voyage en Terre Intérieure",
-        "numberOfPages": "111",
+        "name": "Le sens des prénoms en transgénérationnel",
+        "numberOfPages": "",
         "offers": {
             "@type": "Offer",
             "availability": "http://schema.org/InStock",
-            "price": "13.50",
-            "priceCurrency": "EUR"
+            "price": "29",
+            "priceCurrency": "CHF"
         },
-        "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1534956824"
+        "publisher": "Rosemonde Rossel",
+        "url": "http://sensdesprenoms.com/ebook.html"
     },
     {
         "@context": "http://schema.org",
@@ -210,6 +209,7 @@
         "@type": "Book",
         "author": "Lætitia Stucki",
         "bookFormat": "http://schema.org/Paperback",
+        "datePublished": "2014-05-07",
         "editor": "Nicolas Jeanmonod",
         "image": "cours-autohypnose.jpg",
         "inLanguage": "French",
@@ -220,28 +220,22 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
-        "author": "Rosemonde Rossel",
-        "bookFormat": "http://schema.org/EBook",
-        "datePublished": "2011-11-11",
+        "author": "Magaly Gutschelhofer",
+        "bookFormat": "http://schema.org/Paperback",
+        "datePublished": "2014-08-27",
         "editor": "Nicolas Jeanmonod",
-        "image": "sensdesprenoms.jpg",
+        "image": "accepter_l_inacceptable.png",
         "inLanguage": "French",
-        "name": "Le sens des prénoms en transgénérationnel",
-        "numberOfPages": "",
-        "offers": {
-            "@type": "Offer",
-            "availability": "http://schema.org/InStock",
-            "price": "29",
-            "priceCurrency": "CHF"
-        },
-        "publisher": "Rosemonde Rossel",
-        "url": "http://sensdesprenoms.com/ebook.html"
+        "name": "Accepter l\u2019innaceptable",
+        "publisher": "Éditions Mon Village",
+        "url": "http://www.editions-monvillage.ch/?page=catalogue&art=livre&id=237"
     },
     {
         "@context": "http://schema.org",
         "@type": "Book",
         "author": "Beatrice Jörg",
         "bookFormat": "http://schema.org/Paperback",
+        "datePublished": "2015-06-15",
         "editor": "Nicolas Jeanmonod",
         "image": "brins_de_poesie.jpg",
         "inLanguage": "French",
@@ -252,13 +246,22 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
-        "author": "Magaly Gutschelhofer",
+        "author": "Charlotte Guignard",
         "bookFormat": "http://schema.org/Paperback",
+        "datePublished": "2016-08-25",
         "editor": "Nicolas Jeanmonod",
-        "image": "accepter_l_inacceptable.png",
+        "image": "osons_nous_reveler-couverture.jpg",
         "inLanguage": "French",
-        "name": "Accepter l’innaceptable",
-        "publisher": "Éditions Mon Village",
-        "url": "http://www.editions-monvillage.ch/?page=catalogue&art=livre&id=237"
+        "isbn": "1534956824",
+        "name": "Osons nous révéler \u2014 Voyage en Terre Intérieure",
+        "numberOfPages": "111",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "13.50",
+            "priceCurrency": "EUR"
+        },
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/1534956824"
     }
 ]
