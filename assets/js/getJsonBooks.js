@@ -18,7 +18,7 @@
             <div class="row">
               <a href="${ data[ i ].url }" target="_blank">
                 <div class="livre-in col-xs-10 col-xs-offset-1">
-                  <div class="myfigure">
+                  <div class="livre-figure">
                     <img alt="..." src="images/livres/${ data[ i ].image }" class="img-responsive" />
                   </div>
                 </div>

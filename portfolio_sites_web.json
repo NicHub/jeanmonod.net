@@ -1,0 +1,122 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "osonsnousreveler-01.png",
+        "url": "http://osonsnousreveler.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "laetitia-stucki-01.png",
+        "url": "http://laetitia-stucki.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "sacree-sexualite-01.png",
+        "url": "http://sacree-sexualite.org"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "massage-confignon-01.png",
+        "url": "http://massage-confignon.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "naturopathie-01.png",
+        "url": "http://cnl-naturopathie.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "catherinejorg-01.png",
+        "url": "http://catherinejorg.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "eft-tbt-01.png",
+        "url": "http://eft-tbt.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "reflexo-lignon-01.png",
+        "url": "http://reflexo-lignon.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "gilbertdagon-01.png",
+        "url": "http://gilbertdagon.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "pontsdelumiere-01.png",
+        "url": "http://pontsdelumiere.com/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "pousadajardimdosanjos-01.png",
+        "url": "http://pousadajardimdosanjos.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "ouilogique-01.png",
+        "url": "http://ouilogique.com/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "anges-01.png",
+        "url": "http://anges.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "hypnodingues-01.png",
+        "url": "http://hypnodingues.org"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "sosbattery-01.png",
+        "url": "http://sosbattery.ch/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "holistique-sante-01.png",
+        "url": "http://holistique-sante.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "critiscope-01.png",
+        "url": "http://critiscope.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "sensdesprenoms-01.png",
+        "url": "http://www.sensdesprenoms.com/basededonnees.html"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "posturologie-01.png",
+        "url": "http://posturologie.ch/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "image": "aaspir-01.png",
+        "url": "http://aaspir.ch"
+    }
+]
