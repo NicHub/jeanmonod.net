@@ -172,6 +172,18 @@
     {
         "@context": "http://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "le-8e-sens.jpg",
+        "inLanguage": "French",
+        "name": "Le 8e sens",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B01N3XX4B8/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
         "author": "Rosemonde Rossel",
         "bookFormat": "http://schema.org/EBook",
         "datePublished": "2011-11-11",
