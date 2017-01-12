@@ -1,38 +1,41 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Nicolas Jeanmonod</title>
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
-        <!-- CSS  -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-        <link rel="stylesheet" href="materialize/css/materialize.css" media="screen,projection" />
-        <link rel="stylesheet" href="parallax-template.css" media="screen,projection" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
         <link rel="stylesheet" href="assets/css/style.css" />
     </head>
     <body>
-        <nav class="white" role="navigation">
-            <div class="nav-wrapper container">
-                <a id="logo-container" href="#" class="brand-logo">JEANMONOD.NET</a>
-            </div>
-        </nav>
-        <div id="index-banner" class="parallax-container">
-            <div class="section no-pad-bot">
-                <div class="container">
-                    <div class="row center">
-                        <a href="portfolio_livres.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Portfolio livres</a>
+        <nav>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <a href="."><p>JEANMONOD.NET</p></a>
                     </div>
-                    <div class="row center">
-                        <a href="portfolio_sites_web.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Portfolio sites web</a>
-                    </div>
-                    <br />
-                    <br />
                 </div>
             </div>
-        </div>
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="materialize/js/materialize.js"></script>
-        <script src="parallax-template.js"></script>
+        </nav>
+        <main>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1">
+                        <a href="portfolio_livres.html" class="btn btn-primary btn-lg btn-block" role="button">PORTFOLIO LIVRES</a>
+                        <a href="portfolio_sites_web.html" class="btn btn-primary btn-lg btn-block " role="button">PORTFOLIO SITES WEB</a>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <p>2017 — Nicolas Jeanmonod</p>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
