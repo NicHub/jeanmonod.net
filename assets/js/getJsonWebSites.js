@@ -22,7 +22,8 @@
             <div class="row">
               <a href="${ data[ i ].url }" target="_blank">
                 <div class="siteweb-in col-xs-10 col-xs-offset-1">
-                  <div class="siteweb-figure">
+                  <div class="siteweb-figure
+                              z-depth-4">
                     <img alt="..." src="images/sites_web/${ data[ i ].image }" class="img-responsive" />
                   </div>
                 </div>
