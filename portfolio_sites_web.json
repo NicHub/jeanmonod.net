@@ -3,120 +3,140 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "osonsnousreveler-01.jpg",
-        "url": "http://osonsnousreveler.com"
+        "url": "http://osonsnousreveler.com",
+        "name": "osonsnousreveler.com"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "laetitia-stucki-01.jpg",
-        "url": "http://laetitia-stucki.ch"
+        "url": "http://laetitia-stucki.ch",
+        "name": "laetitia-stucki.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "sacree-sexualite-01.jpg",
-        "url": "http://sacree-sexualite.org"
+        "url": "http://sacree-sexualite.org",
+        "name": "sacree-sexualite.org"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "massage-confignon-01.jpg",
-        "url": "http://massage-confignon.ch"
+        "url": "http://massage-confignon.ch",
+        "name": "massage-confignon.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "cnl-naturopathie-01.jpg",
-        "url": "http://cnl-naturopathie.ch"
+        "url": "http://cnl-naturopathie.ch",
+        "name": "cnl-naturopathie.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "catherinejorg-01.jpg",
-        "url": "http://catherinejorg.ch"
+        "url": "http://catherinejorg.ch",
+        "name": "catherinejorg.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "eft-tbt-01.jpg",
-        "url": "http://eft-tbt.com"
+        "url": "http://eft-tbt.com",
+        "name": "eft-tbt.com"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "reflexo-lignon-01.jpg",
-        "url": "http://reflexo-lignon.ch"
+        "url": "http://reflexo-lignon.ch",
+        "name": "reflexo-lignon.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "gilbertdagon-01.jpg",
-        "url": "http://gilbertdagon.com"
+        "url": "http://gilbertdagon.com",
+        "name": "gilbertdagon.com"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "pontsdelumiere-01.jpg",
-        "url": "http://pontsdelumiere.com/"
+        "url": "http://pontsdelumiere.com/",
+        "name": "pontsdelumiere.com/"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "pousadajardimdosanjos-01.jpg",
-        "url": "http://pousadajardimdosanjos.com"
+        "url": "http://pousadajardimdosanjos.com",
+        "name": "pousadajardimdosanjos.com"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "ouilogique-01.jpg",
-        "url": "http://ouilogique.com/"
+        "url": "http://ouilogique.com/",
+        "name": "ouilogique.com/"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "anges-01.jpg",
-        "url": "http://anges.ch"
+        "url": "http://anges.ch",
+        "name": "anges.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "hypnodingues-01.jpg",
-        "url": "http://hypnodingues.org"
+        "url": "http://hypnodingues.org",
+        "name": "hypnodingues.org"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "sosbattery-01.jpg",
-        "url": "http://sosbattery.ch/"
+        "url": "http://sosbattery.ch/",
+        "name": "sosbattery.ch/"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "holistique-sante-01.jpg",
-        "url": "http://holistique-sante.ch"
+        "url": "http://holistique-sante.ch",
+        "name": "holistique-sante.ch"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "critiscope-01.jpg",
-        "url": "http://critiscope.com"
+        "url": "http://critiscope.com",
+        "name": "critiscope.com"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "sensdesprenoms-01.jpg",
-        "url": "http://www.sensdesprenoms.com/basededonnees.html"
+        "url": "http://www.sensdesprenoms.com/basededonnees.html",
+        "name": "www.sensdesprenoms.com/basededonnees.html"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "posturologie-01.jpg",
-        "url": "http://posturologie.ch/"
+        "url": "http://posturologie.ch/",
+        "name": "posturologie.ch/"
     },
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "aaspir-01.jpg",
-        "url": "http://aaspir.ch"
+        "url": "http://aaspir.ch",
+        "name": "aaspir.ch"
     }
 ]

@@ -24,7 +24,7 @@
                 <div class="siteweb-in col-xs-10 col-xs-offset-1">
                   <div class="siteweb-figure
                               z-depth-4">
-                    <img alt="..." src="images/sites_web/${ data[ i ].image }" class="img-responsive" />
+                    <img alt="${ data[ i ].name }" src="images/sites_web/${ data[ i ].image }" class="img-responsive" />
                   </div>
                 </div>
               </a>

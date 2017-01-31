@@ -22,7 +22,7 @@
               <a href="${ data[ i ].url }" target="_blank">
                 <div class="livre-figure
                             z-depth-4">
-                  <img alt="..." src="images/livres/${ data[ i ].image }" class="img-responsive" />
+                  <img alt="${ data[ i ].name }" src="images/livres/${ data[ i ].image }" class="img-responsive" />
                 </div>
               </a>
             </div>
