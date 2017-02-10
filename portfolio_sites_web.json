@@ -2,6 +2,13 @@
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
+        "image": "deuxfoiscinq-01.jpg",
+        "url": "http://deuxfoiscinq.ch",
+        "name": "deuxfoiscinq.ch"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
         "image": "osonsnousreveler-01.jpg",
         "url": "http://osonsnousreveler.com",
         "name": "osonsnousreveler.com"
@@ -66,8 +73,8 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "pontsdelumiere-01.jpg",
-        "url": "http://pontsdelumiere.com/",
-        "name": "pontsdelumiere.com/"
+        "url": "http://pontsdelumiere.com",
+        "name": "pontsdelumiere.com"
     },
     {
         "@context": "http://schema.org",
@@ -80,8 +87,8 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "ouilogique-01.jpg",
-        "url": "http://ouilogique.com/",
-        "name": "ouilogique.com/"
+        "url": "http://ouilogique.com",
+        "name": "ouilogique.com"
     },
     {
         "@context": "http://schema.org",
@@ -101,8 +108,8 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "sosbattery-01.jpg",
-        "url": "http://sosbattery.ch/",
-        "name": "sosbattery.ch/"
+        "url": "http://sosbattery.ch",
+        "name": "sosbattery.ch"
     },
     {
         "@context": "http://schema.org",
@@ -129,8 +136,8 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "posturologie-01.jpg",
-        "url": "http://posturologie.ch/",
-        "name": "posturologie.ch/"
+        "url": "http://posturologie.ch",
+        "name": "posturologie.ch"
     },
     {
         "@context": "http://schema.org",

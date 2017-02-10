@@ -20,7 +20,7 @@
                       col-xs-10 col-xs-offset-1
                       text-center">
             <div class="row">
-              <a href="${ data[ i ].url }" target="_blank">
+              <a href="${ data[ i ].url }" target="_blank" title="${ data[ i ].name }">
                 <div class="siteweb-in col-xs-10 col-xs-offset-1">
                   <div class="siteweb-figure
                               z-depth-4">

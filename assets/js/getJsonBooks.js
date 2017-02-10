@@ -19,7 +19,7 @@
                       col-sm-4 col-sm-offset-0
                       col-xs-6 col-xs-offset-0">
             <div class="row">
-              <a href="${ data[ i ].url }" target="_blank">
+              <a href="${ data[ i ].url }" target="_blank" title="voir\n${ data[ i ].name }\nsur\n${ data[ i ].url }">
                 <div class="livre-figure
                             z-depth-4">
                   <img alt="${ data[ i ].name }" src="images/livres/${ data[ i ].image }" class="img-responsive" />
