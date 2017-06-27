@@ -2,6 +2,13 @@
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
+        "image": "critiscope-01.jpg",
+        "url": "http://critiscope.com",
+        "name": "critiscope.com"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
         "image": "deuxfoiscinq-01.jpg",
         "url": "http://deuxfoiscinq.ch",
         "name": "deuxfoiscinq.ch"
@@ -117,13 +124,6 @@
         "image": "holistique-sante-01.jpg",
         "url": "http://holistique-sante.ch",
         "name": "holistique-sante.ch"
-    },
-    {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "image": "critiscope-01.jpg",
-        "url": "http://critiscope.com",
-        "name": "critiscope.com"
     },
     {
         "@context": "http://schema.org",
