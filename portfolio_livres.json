@@ -115,6 +115,18 @@
         "author": "Jean-Philippe Touzeau",
         "bookFormat": "http://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
+        "image": "lfsp-10.jpg",
+        "inLanguage": "French",
+        "name": "La femme sans peur \u2013 Vol. 10",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B078NB9C3N/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "http://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
         "image": "spirale-1.jpg",
         "inLanguage": "French",
         "name": "La femme sans peur (Vol. 1\u20133): Spirale 1",
