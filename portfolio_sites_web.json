@@ -94,7 +94,7 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "image": "ouilogique-01.jpg",
-        "url": "http://ouilogique.com",
+        "url": "https://ouilogique.com",
         "name": "ouilogique.com"
     },
     {
