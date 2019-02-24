@@ -208,6 +208,18 @@
     {
         "@context": "https://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "la-chute-du-juge-faubert.jpg",
+        "inLanguage": "French",
+        "name": "La chute du juge Fauvert",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/gp/product/B07HMKC413"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
         "author": "Rosemonde Rossel",
         "bookFormat": "https://schema.org/EBook",
         "datePublished": "2011-11-11",
