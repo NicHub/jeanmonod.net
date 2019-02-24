@@ -1,9 +1,9 @@
 [
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-01.jpg",
         "inLanguage": "French",
@@ -14,10 +14,10 @@
         "url": "https://www.amazon.fr/dp/B00ANFOGDO/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-02.jpg",
         "inLanguage": "French",
@@ -26,10 +26,10 @@
         "url": "https://www.amazon.fr/dp/B00DDTQYPK/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-03.jpg",
         "inLanguage": "French",
@@ -38,10 +38,10 @@
         "url": "https://www.amazon.fr/dp/B00H4F2OIA/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-04.jpg",
         "inLanguage": "French",
@@ -50,10 +50,10 @@
         "url": "https://www.amazon.fr/dp/B00L5KE9S8/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-05.jpg",
         "inLanguage": "French",
@@ -62,10 +62,10 @@
         "url": "https://www.amazon.fr/dp/B00RAR9ZXO/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-06.jpg",
         "inLanguage": "French",
@@ -74,10 +74,10 @@
         "url": "https://www.amazon.fr/dp/B010EAQSFQ/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-07.jpg",
         "inLanguage": "French",
@@ -86,10 +86,10 @@
         "url": "https://www.amazon.fr/dp/B01911AAGW/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-08.jpg",
         "inLanguage": "French",
@@ -98,10 +98,10 @@
         "url": "https://www.amazon.fr/dp/B01HPFGXVW/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-09.jpg",
         "inLanguage": "French",
@@ -110,10 +110,10 @@
         "url": "https://www.amazon.fr/dp/B06XR2HF6C/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-10.jpg",
         "inLanguage": "French",
@@ -122,10 +122,10 @@
         "url": "https://www.amazon.fr/dp/B078NB9C3N/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "spirale-1.jpg",
         "inLanguage": "French",
@@ -134,10 +134,10 @@
         "url": "https://www.amazon.fr/dp/1500173363/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "spirale-2.jpg",
         "inLanguage": "French",
@@ -146,10 +146,10 @@
         "url": "https://www.amazon.fr/dp/1519223501/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-de-01.jpg",
         "inLanguage": "German",
@@ -158,10 +158,10 @@
         "url": "https://www.amazon.fr/dp/1503946266/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "lfsp-de-02.jpg",
         "inLanguage": "German",
@@ -170,10 +170,10 @@
         "url": "https://www.amazon.fr/dp/B00LAW8V9E/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "les-trois-extases-1.jpg",
         "inLanguage": "French",
@@ -182,10 +182,10 @@
         "url": "https://www.amazon.fr/dp/1511774940/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "les-trois-extases-2.jpg",
         "inLanguage": "French",
@@ -194,10 +194,10 @@
         "url": "https://www.amazon.fr/dp/1512323101/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Jean-Philippe Touzeau",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "editor": "Nicolas Jeanmonod",
         "image": "le-8e-sens.jpg",
         "inLanguage": "French",
@@ -206,10 +206,10 @@
         "url": "https://www.amazon.fr/dp/B01N3XX4B8/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Rosemonde Rossel",
-        "bookFormat": "http://schema.org/EBook",
+        "bookFormat": "https://schema.org/EBook",
         "datePublished": "2011-11-11",
         "editor": "Nicolas Jeanmonod",
         "image": "sensdesprenoms.jpg",
@@ -218,7 +218,7 @@
         "numberOfPages": "",
         "offers": {
             "@type": "Offer",
-            "availability": "http://schema.org/InStock",
+            "availability": "https://schema.org/InStock",
             "price": "29",
             "priceCurrency": "CHF"
         },
@@ -226,10 +226,10 @@
         "url": "http://sensdesprenoms.com/ebook.html"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Annick Louis",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "datePublished": "2014-03-27",
         "editor": "Nicolas Jeanmonod",
         "image": "accident.jpg",
@@ -241,10 +241,10 @@
         "url": "https://www.amazon.fr/dp/1291690700/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Lætitia Stucki",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "datePublished": "2014-05-07",
         "editor": "Nicolas Jeanmonod",
         "image": "cours-autohypnose.jpg",
@@ -254,10 +254,10 @@
         "url": "http://laetitia-stucki.ch/"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Magaly Gutschelhofer",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "datePublished": "2014-08-27",
         "editor": "Nicolas Jeanmonod",
         "image": "accepter_l_inacceptable.png",
@@ -267,10 +267,10 @@
         "url": "http://www.editions-monvillage.ch/?page=catalogue&art=livre&id=237"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Beatrice Jörg",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "datePublished": "2015-06-15",
         "editor": "Nicolas Jeanmonod",
         "image": "brins_de_poesie.jpg",
@@ -280,10 +280,10 @@
         "url": "http://www.lulu.com/shop/product-22215840.html"
     },
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Book",
         "author": "Charlotte Guignard",
-        "bookFormat": "http://schema.org/Paperback",
+        "bookFormat": "https://schema.org/Paperback",
         "datePublished": "2016-08-25",
         "editor": "Nicolas Jeanmonod",
         "image": "osons_nous_reveler-couverture.jpg",
@@ -293,7 +293,7 @@
         "numberOfPages": "111",
         "offers": {
             "@type": "Offer",
-            "availability": "http://schema.org/InStock",
+            "availability": "https://schema.org/InStock",
             "price": "13.50",
             "priceCurrency": "EUR"
         },
