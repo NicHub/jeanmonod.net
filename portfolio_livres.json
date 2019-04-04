@@ -215,7 +215,19 @@
         "inLanguage": "French",
         "name": "La chute du juge Fauvert",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/gp/product/B07HMKC413"
+        "url": "https://www.amazon.fr/dp/B07HMKC413"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "sdcsm.jpg",
+        "inLanguage": "French",
+        "name": "Si demain commence sans moi",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B07Q3L42WH"
     },
     {
         "@context": "https://schema.org",
