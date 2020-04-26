@@ -246,6 +246,18 @@
     {
         "@context": "https://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "l_enigme_de_laurent_offredo.jpg",
+        "inLanguage": "French",
+        "name": "L’Énigme de Laurent Offredo",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B087JWWHP5"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
         "author": "Rosemonde Rossel",
         "bookFormat": "https://schema.org/EBook",
         "datePublished": "2011-11-11",
