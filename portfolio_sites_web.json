@@ -24,35 +24,35 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "laetitia-stucki-01.jpg",
-        "url": "http://laetitia-stucki.ch",
+        "url": "https://laetitiastucki.github.io/laetitia-stucki-v2/",
         "name": "laetitia-stucki.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sacree-sexualite-01.jpg",
-        "url": "http://sacree-sexualite.org",
+        "url": "https://laetitiastucki.github.io/sacree-sexualite-v2/",
         "name": "sacree-sexualite.org"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "massage-confignon-01.jpg",
-        "url": "http://massage-confignon.ch",
+        "url": "https://massage-confignon.ch",
         "name": "massage-confignon.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "cnl-naturopathie-01.jpg",
-        "url": "http://cnl-naturopathie.ch",
+        "url": "https://cnl-naturopathie.ch",
         "name": "cnl-naturopathie.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "catherinejorg-01.jpg",
-        "url": "http://catherinejorg.ch",
+        "url": "https://catherinejorg.ch",
         "name": "catherinejorg.ch"
     },
     {
@@ -66,7 +66,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "reflexo-lignon-01.jpg",
-        "url": "http://reflexo-lignon.ch",
+        "url": "https://reflexo-lignon.ch",
         "name": "reflexo-lignon.ch"
     },
     {
@@ -108,7 +108,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "hypnodingues-01.jpg",
-        "url": "http://hypnodingues.org",
+        "url": "https://hypnodingues.org",
         "name": "hypnodingues.org"
     },
     {
@@ -122,7 +122,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "holistique-sante-01.jpg",
-        "url": "http://holistique-sante.ch",
+        "url": "https://holistique-sante.ch",
         "name": "holistique-sante.ch"
     },
     {
@@ -143,7 +143,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "aaspir-01.jpg",
-        "url": "http://aaspir.ch",
+        "url": "https://aaspir.ch",
         "name": "aaspir.ch"
     }
 ]
