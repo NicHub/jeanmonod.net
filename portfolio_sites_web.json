@@ -24,14 +24,14 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "laetitia-stucki-01.jpg",
-        "url": "https://laetitiastucki.github.io/laetitia-stucki-v2/",
+        "url": "https://nichub.github.io/laetitia-stucki-v2/",
         "name": "laetitia-stucki.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sacree-sexualite-01.jpg",
-        "url": "https://laetitiastucki.github.io/sacree-sexualite-v2/",
+        "url": "https://nichub.github.io/sacree-sexualite-v2/",
         "name": "sacree-sexualite.org"
     },
     {
