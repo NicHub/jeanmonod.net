@@ -301,7 +301,8 @@
         "inLanguage": "French",
         "name": "Cours d\u2019autohypnose",
         "publisher": "Lulu",
-        "url": "http://laetitia-stucki.ch/"
+        "url": ".",
+        "url-0": "http://laetitia-stucki.ch/"
     },
     {
         "@context": "https://schema.org",
