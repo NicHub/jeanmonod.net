@@ -3,7 +3,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "critiscope-01.jpg",
-        "url": "http://critiscope.com",
+        "url": ".",
+        "url-0": "http://critiscope.com",
         "name": "critiscope.com"
     },
     {
@@ -115,7 +116,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sosbattery-01.jpg",
-        "url": "http://sosbattery.ch",
+        "url": ".",
+        "url-0": "http://sosbattery.ch",
         "name": "sosbattery.ch"
     },
     {
