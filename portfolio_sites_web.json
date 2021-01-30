@@ -11,7 +11,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "deuxfoiscinq-01.jpg",
-        "url": "http://deuxfoiscinq.ch",
+        "url": ".",
+        "url-0": "http://deuxfoiscinq.ch",
         "name": "deuxfoiscinq.ch"
     },
     {
@@ -19,20 +20,23 @@
         "@type": "WebSite",
         "image": "osonsnousreveler-01.jpg",
         "url": "https://nichub.github.io/revelation-1/",
+        "url-0": "https://nichub.github.io/revelation-1/",
         "name": "osonsnousreveler.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "laetitia-stucki-01.jpg",
-        "url": "https://nichub.github.io/laetitia-stucki-v2/",
+        "url": ".",
+        "url-0": "https://nichub.github.io/laetitia-stucki-v2/",
         "name": "laetitia-stucki.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sacree-sexualite-01.jpg",
-        "url": "https://nichub.github.io/sacree-sexualite-v2/",
+        "url": ".",
+        "url-0": "https://nichub.github.io/sacree-sexualite-v2/",
         "name": "sacree-sexualite.org"
     },
     {
@@ -61,7 +65,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "eft-tbt-01.jpg",
-        "url": "http://eft-tbt.com",
+        "url": ".",
+        "url-0": "http://eft-tbt.com",
         "name": "eft-tbt.com"
     },
     {
@@ -82,14 +87,16 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "pontsdelumiere-01.jpg",
-        "url": "http://pontsdelumiere.com",
+        "url": ".",
+        "url-0": "http://pontsdelumiere.com",
         "name": "pontsdelumiere.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "pousadajardimdosanjos-01.jpg",
-        "url": "http://pousadajardimdosanjos.com",
+        "url": ".",
+        "url-0": "http://pousadajardimdosanjos.com",
         "name": "pousadajardimdosanjos.com"
     },
     {
@@ -146,7 +153,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "aaspir-01.jpg",
-        "url": "https://aaspir.ch",
+        "url": ".",
+        "url-0": "https://aaspir.ch",
         "name": "aaspir.ch"
     }
 ]
