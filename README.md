@@ -2,6 +2,8 @@
 **jeanmonod.net**
 =================
 
+https://jeanmonod.net
+
 https://schema.org/Book
 
 https://schema.org/WebSite

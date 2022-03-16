@@ -258,6 +258,42 @@
     {
         "@context": "https://schema.org",
         "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "ceux-qui-doivent-payer.jpg",
+        "inLanguage": "French",
+        "name": "Ceux qui doivent payer (La fille aux gants de satin, Tome I)",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B08QC9RQ1P"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "celles_qui_font_payer.jpg",
+        "inLanguage": "French",
+        "name": "Celles qui font payer (La fille aux gants de satin, Tome II)",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/dp/B08Y7KS68F"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "author": "Jean-Philippe Touzeau",
+        "bookFormat": "https://schema.org/Paperback",
+        "editor": "Nicolas Jeanmonod",
+        "image": "qui-va-payer-l-addition.jpg",
+        "inLanguage": "French",
+        "name": "Qui va payer l’addition ? (La fille aux gants de satin, Tome III)",
+        "publisher": "Amazon",
+        "url": "https://www.amazon.fr/gp/product/B09NTQ16VK"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
         "author": "Rosemonde Rossel",
         "bookFormat": "https://schema.org/EBook",
         "datePublished": "2011-11-11",
