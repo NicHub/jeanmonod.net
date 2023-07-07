@@ -11,7 +11,8 @@
         "name": "La saga de Jean-Philippe Touzeau",
         "numberOfPages": "",
         "publisher": "",
-        "url": "https://www.facebook.com/igiveyou"
+        "url": "https://www.facebook.com/igiveyou",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -25,7 +26,8 @@
         "name": "La femme sans peur \u2013 Vol. 1",
         "numberOfPages": "212",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00ANFOGDO/"
+        "url": "https://www.amazon.fr/dp/B00ANFOGDO/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -37,7 +39,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 2",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00DDTQYPK/"
+        "url": "https://www.amazon.fr/dp/B00DDTQYPK/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -49,7 +52,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 3",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00H4F2OIA/"
+        "url": "https://www.amazon.fr/dp/B00H4F2OIA/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -61,7 +65,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 4",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00L5KE9S8/"
+        "url": "https://www.amazon.fr/dp/B00L5KE9S8/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -73,7 +78,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 5",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00RAR9ZXO/"
+        "url": "https://www.amazon.fr/dp/B00RAR9ZXO/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -85,7 +91,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 6",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B010EAQSFQ/"
+        "url": "https://www.amazon.fr/dp/B010EAQSFQ/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -97,7 +104,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 7",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B01911AAGW/"
+        "url": "https://www.amazon.fr/dp/B01911AAGW/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -109,7 +117,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 8",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B01HPFGXVW/"
+        "url": "https://www.amazon.fr/dp/B01HPFGXVW/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -121,7 +130,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 9",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B06XR2HF6C/"
+        "url": "https://www.amazon.fr/dp/B06XR2HF6C/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -133,7 +143,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur \u2013 Vol. 10",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B078NB9C3N/"
+        "url": "https://www.amazon.fr/dp/B078NB9C3N/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -145,7 +156,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur (Vol. 1\u20133): Spirale 1",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1500173363/"
+        "url": "https://www.amazon.fr/dp/1500173363/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -157,7 +169,8 @@
         "inLanguage": "French",
         "name": "La femme sans peur (Vol. 4\u20136): Spirale 2",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1519223501/"
+        "url": "https://www.amazon.fr/dp/1519223501/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -169,7 +182,8 @@
         "inLanguage": "German",
         "name": "Angstlos \u2013 Band 1",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1503946266/"
+        "url": "https://www.amazon.fr/dp/1503946266/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -181,7 +195,8 @@
         "inLanguage": "German",
         "name": "Angstlos \u2013 Band 2",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B00LAW8V9E/"
+        "url": "https://www.amazon.fr/dp/B00LAW8V9E/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -193,7 +208,8 @@
         "inLanguage": "French",
         "name": "Les trois extases \u2014 Première extase \u2014 Un homme pressé",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1511774940/"
+        "url": "https://www.amazon.fr/dp/1511774940/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -205,7 +221,8 @@
         "inLanguage": "French",
         "name": "Les trois extases \u2014 Première extase \u2014 Une femme passionnée",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1512323101/"
+        "url": "https://www.amazon.fr/dp/1512323101/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -217,7 +234,8 @@
         "inLanguage": "French",
         "name": "Le 8e sens",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B01N3XX4B8/"
+        "url": "https://www.amazon.fr/dp/B01N3XX4B8/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -229,7 +247,8 @@
         "inLanguage": "French",
         "name": "La chute du juge Fauvert",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B07HMKC413"
+        "url": "https://www.amazon.fr/dp/B07HMKC413",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -241,7 +260,8 @@
         "inLanguage": "French",
         "name": "Si demain commence sans moi",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B07Q3L42WH"
+        "url": "https://www.amazon.fr/dp/B07Q3L42WH",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -253,7 +273,8 @@
         "inLanguage": "French",
         "name": "L’Énigme de Laurent Offredo",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B087JWWHP5"
+        "url": "https://www.amazon.fr/dp/B087JWWHP5",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -265,7 +286,8 @@
         "inLanguage": "French",
         "name": "Ceux qui doivent payer (La fille aux gants de satin, Tome I)",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B08QC9RQ1P"
+        "url": "https://www.amazon.fr/dp/B08QC9RQ1P",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -277,7 +299,8 @@
         "inLanguage": "French",
         "name": "Celles qui font payer (La fille aux gants de satin, Tome II)",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/B08Y7KS68F"
+        "url": "https://www.amazon.fr/dp/B08Y7KS68F",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -289,7 +312,8 @@
         "inLanguage": "French",
         "name": "Qui va payer l’addition ? (La fille aux gants de satin, Tome III)",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/gp/product/B09NTQ16VK"
+        "url": "https://www.amazon.fr/gp/product/B09NTQ16VK",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -309,7 +333,8 @@
             "priceCurrency": "CHF"
         },
         "publisher": "Rosemonde Rossel",
-        "url": "http://sensdesprenoms.com/ebook.html"
+        "url": "http://sensdesprenoms.com/ebook.html",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -324,7 +349,8 @@
         "name": "Accident",
         "numberOfPages": "132",
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1291690700/"
+        "url": "https://www.amazon.fr/dp/1291690700/",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -337,8 +363,8 @@
         "inLanguage": "French",
         "name": "Cours d\u2019autohypnose",
         "publisher": "Lulu",
-        "url": ".",
-        "url-0": "http://laetitia-stucki.ch/"
+        "url": "http://laetitia-stucki.ch/",
+        "availability": "https://schema.org/out-of-stock"
     },
     {
         "@context": "https://schema.org",
@@ -351,7 +377,8 @@
         "inLanguage": "French",
         "name": "Accepter l\u2019inaceptable",
         "publisher": "Éditions Mon Village",
-        "url": "https://editionsmonvillage.ch/produit/accepter-linacceptable/"
+        "url": "https://editionsmonvillage.ch/produit/accepter-linacceptable/",
+        "availability": "https://schema.org/out-of-stock"
     },
     {
         "@context": "https://schema.org",
@@ -364,7 +391,8 @@
         "inLanguage": "French",
         "name": "Brins de poésie",
         "publisher": "Lulu",
-        "url": "http://www.lulu.com/shop/product-22215840.html"
+        "url": "http://www.lulu.com/shop/product-22215840.html",
+        "availability": "https://schema.org/InStock"
     },
     {
         "@context": "https://schema.org",
@@ -385,6 +413,7 @@
             "priceCurrency": "EUR"
         },
         "publisher": "Amazon",
-        "url": "https://www.amazon.fr/dp/1534956824"
+        "url": "https://www.amazon.fr/dp/1534956824",
+        "availability": "https://schema.org/InStock"
     }
 ]

@@ -3,46 +3,47 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "critiscope-01.jpg",
-        "url": ".",
-        "url-0": "http://critiscope.com",
+        "validLink": false,
+        "url": "http://critiscope.com",
         "name": "critiscope.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "deuxfoiscinq-01.jpg",
-        "url": ".",
-        "url-0": "http://deuxfoiscinq.ch",
+        "validLink": false,
+        "url": "http://deuxfoiscinq.ch",
         "name": "deuxfoiscinq.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "osonsnousreveler-01.jpg",
-        "url": ".",
-        "url-0": "https://nichub.github.io/revelation-1/",
+        "validLink": false,
+        "url": "https://nichub.github.io/revelation-1/",
         "name": "osonsnousreveler.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "laetitia-stucki-01.jpg",
-        "url": ".",
-        "url-0": "https://nichub.github.io/laetitia-stucki-v2/",
+        "validLink": false,
+        "url": "https://nichub.github.io/laetitia-stucki-v2/",
         "name": "laetitia-stucki.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sacree-sexualite-01.jpg",
-        "url": ".",
-        "url-0": "https://nichub.github.io/sacree-sexualite-v2/",
+        "validLink": false,
+        "url": "https://nichub.github.io/sacree-sexualite-v2/",
         "name": "sacree-sexualite.org"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "massage-confignon-01.jpg",
+        "validLink": true,
         "url": "https://massage-confignon.ch",
         "name": "massage-confignon.ch"
     },
@@ -50,6 +51,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "cnl-naturopathie-01.jpg",
+        "validLink": true,
         "url": "https://cnl-naturopathie.ch",
         "name": "cnl-naturopathie.ch"
     },
@@ -57,21 +59,23 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "catherinejorg-01.jpg",
-        "url": "http://catherinejorg.ch",
+        "validLink": false,
+        "url": "",
         "name": "catherinejorg.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "eft-tbt-01.jpg",
-        "url": ".",
-        "url-0": "http://eft-tbt.com",
+        "validLink": false,
+        "url": "http://eft-tbt.com",
         "name": "eft-tbt.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "reflexo-lignon-01.jpg",
+        "validLink": true,
         "url": "https://reflexo-lignon.ch",
         "name": "reflexo-lignon.ch"
     },
@@ -79,6 +83,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "gilbertdagon-01.jpg",
+        "validLink": false,
         "url": "http://gilbertdagon.com",
         "name": "gilbertdagon.com"
     },
@@ -86,22 +91,23 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "pontsdelumiere-01.jpg",
-        "url": ".",
-        "url-0": "http://pontsdelumiere.com",
+        "validLink": false,
+        "url": "http://pontsdelumiere.com",
         "name": "pontsdelumiere.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "pousadajardimdosanjos-01.jpg",
-        "url": ".",
-        "url-0": "http://pousadajardimdosanjos.com",
+        "validLink": false,
+        "url": "http://pousadajardimdosanjos.com",
         "name": "pousadajardimdosanjos.com"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "ouilogique-01.jpg",
+        "validLink": true,
         "url": "https://ouilogique.com",
         "name": "ouilogique.com"
     },
@@ -109,6 +115,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "anges-01.jpg",
+        "validLink": true,
         "url": "http://anges.ch",
         "name": "anges.ch"
     },
@@ -116,6 +123,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "hypnodingues-01.jpg",
+        "validLink": true,
         "url": "https://hypnodingues.org",
         "name": "hypnodingues.org"
     },
@@ -123,22 +131,23 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sosbattery-01.jpg",
-        "url": ".",
-        "url-0": "http://sosbattery.ch",
+        "validLink": false,
+        "url": "http://sosbattery.ch",
         "name": "sosbattery.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "holistique-sante-01.jpg",
-        "url": ".",
-        "url-0": "https://holistique-sante.ch",
+        "validLink": false,
+        "url": "https://holistique-sante.ch",
         "name": "holistique-sante.ch"
     },
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "sensdesprenoms-01.jpg",
+        "validLink": true,
         "url": "http://www.sensdesprenoms.com/basededonnees.html",
         "name": "www.sensdesprenoms.com/basededonnees.html"
     },
@@ -146,6 +155,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "posturologie-01.jpg",
+        "validLink": true,
         "url": "http://posturologie.ch",
         "name": "posturologie.ch"
     },
@@ -153,8 +163,8 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "image": "aaspir-01.jpg",
-        "url": ".",
-        "url-0": "https://aaspir.ch",
+        "validLink": false,
+        "url": "https://aaspir.ch",
         "name": "aaspir.ch"
     }
 ]
