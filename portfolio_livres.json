@@ -415,5 +415,21 @@
         "publisher": "Amazon",
         "url": "https://www.amazon.fr/dp/1534956824",
         "availability": "https://schema.org/InStock"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "author": "Chantal Keist",
+        "bookFormat": "https://schema.org/Paperback",
+        "datePublished": "2022-06-14",
+        "editor": "Nicolas Jeanmonod",
+        "image": "chantal-keist-recit-de-vie.jpg",
+        "inLanguage": "French",
+        "isbn": "",
+        "name": "Récit de vie",
+        "numberOfPages": "119",
+        "publisher": "",
+        "url": "",
+        "availability": "https://schema.org/out-of-stock"
     }
 ]
