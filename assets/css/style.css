@@ -41,6 +41,40 @@ nav {
     opacity: 60%;
 }
 
+/* CDs */
+div.cd-figure {
+    position: relative;
+    display: inline-block;
+    margin: 50px auto;
+    padding: 0;
+    width: 210px;
+    height: 210px;
+}
+div.cd-figure img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+@media (max-width: 767px) {
+    div.cd-figure {
+        width: 80vw;
+        height: 80vw;
+    }
+}
+.overlay {
+    font-weight: bold;
+    font-family: inherit;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: rgba(0, 0, 0, 0);
+}
+div.cd-figure:hover .overlay {
+    opacity: 1;
+}
+
 /* LIVRES */
 div.livre-figure {
     margin: 50px auto;
