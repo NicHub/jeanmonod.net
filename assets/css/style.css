@@ -62,14 +62,20 @@ div.cd-figure img {
     }
 }
 .overlay {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid white;
+    bottom: 0;
+    color: #337AB7;
     font-weight: bold;
-    font-family: inherit;
-    width: 100%;
-    overflow: hidden;
-    display: block;
+    left: 0;
+    margin: 0 auto;
     opacity: 0;
+    overflow: hidden;
+    padding: 10px;
+    position: absolute;
+    text-transform: uppercase;
     transition: 0.5s ease;
-    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
 }
 div.cd-figure:hover .overlay {
     opacity: 1;

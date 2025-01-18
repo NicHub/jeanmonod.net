@@ -38,23 +38,20 @@ function displayJSONinHTML() {
     let htmlElems = "";
     try {
         for (let i = 0; i < responseJSON.length; i++) {
+            const caption = `${i+1}. ${responseJSON[i].image.split(".")[0].replace(/_/g, " ")}`;
             const htmlElem = `
         <div class="cd-out
                     text-center
                     col-md-3
                     col-sm-4 col-sm-offset-0
                     col-xs-12 col-xs-offset-0">
-            <div class="row">
               <div class="cd-figure z-depth-4">
                 <img
                     alt="${responseJSON[i].image}"
                     src="images/cd/images/${responseJSON[i].image}"
                     class="img-responsive"
                 />
-                <div class="overlay">
-                    ${i}. ${responseJSON[i].image.split(".")[0]}
-                </div>
-              </div>
+                <div class="overlay">${caption}</div>
           </div>
         </div>`;
             htmlElems += htmlElem;
