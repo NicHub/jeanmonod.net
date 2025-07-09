@@ -2,6 +2,14 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
+        "image": "boutique-bien-etre-01.jpg",
+        "validLink": true,
+        "url": "https://boutique-bien-etre.com/",
+        "name": "boutique-bien-etre.com"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
         "image": "critiscope-01.jpg",
         "validLink": false,
         "url": "http://critiscope.com",
@@ -60,7 +68,7 @@
         "@type": "WebSite",
         "image": "catherinejorg-01.jpg",
         "validLink": false,
-        "url": "",
+        "url": "https://catherinejorg.ch",
         "name": "catherinejorg.ch"
     },
     {
