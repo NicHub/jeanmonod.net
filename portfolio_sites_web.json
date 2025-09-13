@@ -2,14 +2,6 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "hydrotherapie-eaux-vives-01.webp",
-        "validLink": true,
-        "url": "https://hydrotherapie-eaux-vives.ch",
-        "name": "hydrotherapie-eaux-vives.ch"
-    },
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
         "image": "boutique-bien-etre-01.jpg",
         "validLink": true,
         "url": "https://boutique-bien-etre.com",
