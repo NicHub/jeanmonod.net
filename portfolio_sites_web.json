@@ -2,7 +2,15 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "boutique-bien-etre-01.jpg",
+        "image": "hydrotherapie-eaux-vives-01.webp",
+        "validLink": true,
+        "url": "https://hydrotherapie-eaux-vives.ch",
+        "name": "hydrotherapie-eaux-vives.ch"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "image": "boutique-bien-etre-01.webp",
         "validLink": true,
         "url": "https://boutique-bien-etre.com",
         "name": "boutique-bien-etre.com"
@@ -10,7 +18,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "critiscope-01.jpg",
+        "image": "critiscope-01.webp",
         "validLink": false,
         "url": "http://critiscope.com",
         "name": "critiscope.com"
@@ -18,7 +26,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "deuxfoiscinq-01.jpg",
+        "image": "deuxfoiscinq-01.webp",
         "validLink": false,
         "url": "http://deuxfoiscinq.ch",
         "name": "deuxfoiscinq.ch"
@@ -26,7 +34,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "osonsnousreveler-01.jpg",
+        "image": "osonsnousreveler-01.webp",
         "validLink": false,
         "url": "https://nichub.github.io/revelation-1",
         "name": "osonsnousreveler.com"
@@ -34,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "laetitia-stucki-01.jpg",
+        "image": "laetitia-stucki-01.webp",
         "validLink": false,
         "url": "https://nichub.github.io/laetitia-stucki-v2",
         "name": "laetitia-stucki.ch"
@@ -42,7 +50,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "sacree-sexualite-01.jpg",
+        "image": "sacree-sexualite-01.webp",
         "validLink": false,
         "url": "https://nichub.github.io/sacree-sexualite-v2",
         "name": "sacree-sexualite.org"
@@ -50,7 +58,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "massage-confignon-01.jpg",
+        "image": "massage-confignon-01.webp",
         "validLink": true,
         "url": "https://massage-confignon.ch",
         "name": "massage-confignon.ch"
@@ -58,7 +66,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "cnl-naturopathie-01.jpg",
+        "image": "cnl-naturopathie-01.webp",
         "validLink": true,
         "url": "https://cnl-naturopathie.ch",
         "name": "cnl-naturopathie.ch"
@@ -66,7 +74,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "catherinejorg-01.jpg",
+        "image": "catherinejorg-01.webp",
         "validLink": false,
         "url": "https://catherinejorg.ch",
         "name": "catherinejorg.ch"
@@ -74,7 +82,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "eft-tbt-01.jpg",
+        "image": "eft-tbt-01.webp",
         "validLink": false,
         "url": "http://eft-tbt.com",
         "name": "eft-tbt.com"
@@ -82,7 +90,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "reflexo-lignon-01.jpg",
+        "image": "reflexo-lignon-01.webp",
         "validLink": true,
         "url": "https://reflexo-lignon.ch",
         "name": "reflexo-lignon.ch"
@@ -90,7 +98,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "gilbertdagon-01.jpg",
+        "image": "gilbertdagon-01.webp",
         "validLink": false,
         "url": "http://gilbertdagon.com",
         "name": "gilbertdagon.com"
@@ -98,7 +106,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "pontsdelumiere-01.jpg",
+        "image": "pontsdelumiere-01.webp",
         "validLink": false,
         "url": "http://pontsdelumiere.com",
         "name": "pontsdelumiere.com"
@@ -106,7 +114,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "pousadajardimdosanjos-01.jpg",
+        "image": "pousadajardimdosanjos-01.webp",
         "validLink": false,
         "url": "http://pousadajardimdosanjos.com",
         "name": "pousadajardimdosanjos.com"
@@ -114,7 +122,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "ouilogique-01.jpg",
+        "image": "ouilogique-01.webp",
         "validLink": true,
         "url": "https://ouilogique.com",
         "name": "ouilogique.com"
@@ -122,7 +130,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "anges-01.jpg",
+        "image": "anges-01.webp",
         "validLink": true,
         "url": "http://anges.ch",
         "name": "anges.ch"
@@ -130,7 +138,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "hypnodingues-01.jpg",
+        "image": "hypnodingues-01.webp",
         "validLink": true,
         "url": "https://hypnodingues.org",
         "name": "hypnodingues.org"
@@ -138,7 +146,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "sosbattery-01.jpg",
+        "image": "sosbattery-01.webp",
         "validLink": false,
         "url": "http://sosbattery.ch",
         "name": "sosbattery.ch"
@@ -146,7 +154,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "holistique-sante-01.jpg",
+        "image": "holistique-sante-01.webp",
         "validLink": false,
         "url": "https://holistique-sante.ch",
         "name": "holistique-sante.ch"
@@ -154,7 +162,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "sensdesprenoms-01.jpg",
+        "image": "sensdesprenoms-01.webp",
         "validLink": true,
         "url": "http://www.sensdesprenoms.com/basededonnees.html",
         "name": "www.sensdesprenoms.com/basededonnees.html"
@@ -162,7 +170,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "posturologie-01.jpg",
+        "image": "posturologie-01.webp",
         "validLink": true,
         "url": "http://posturologie.ch",
         "name": "posturologie.ch"
@@ -170,7 +178,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "image": "aaspir-01.jpg",
+        "image": "aaspir-01.webp",
         "validLink": false,
         "url": "https://aaspir.ch",
         "name": "aaspir.ch"
