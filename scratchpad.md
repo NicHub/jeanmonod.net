@@ -10,6 +10,8 @@ https://search.google.com/structured-data/testing-tool
 
 https://neumorphism.io/
 
+https://www.youtube.com/watch?v=55uUK-iJeNM
+
 ```bash
 defaults write com.apple.screencapture type png
 defaults write com.apple.screencapture disable-shadow -bool true
