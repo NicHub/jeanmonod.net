@@ -1,0 +1,6 @@
+{{- $source := .Params.social_image | default "" -}}
+{{- if and (eq $source "") .Params.images }}{{ $source = index .Params.images 0 }}{{ end -}}
+{{- if eq $source "" }}{{ $source = site.Params.socialImage | default site.Home.Params.bgImage | default site.Params.favicon }}{{ end -}}
+{{- $socialImage := strings.TrimPrefix "/" $source | absURL -}}
+{{- with .Resources.GetMatch (strings.TrimPrefix "./" $source) }}{{ $socialImage = .Permalink }}{{ end -}}
+{{- return $socialImage -}}

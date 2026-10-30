@@ -1,0 +1,2 @@
+{{- $description := or .Params.social_description .Description .Params.description site.Params.description -}}
+{{- return $description -}}

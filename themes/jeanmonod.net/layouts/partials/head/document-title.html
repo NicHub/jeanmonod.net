@@ -1,0 +1,4 @@
+{{- $pageTitle := .Params.titleShort | default .Title | plainify -}}
+{{- $title := site.Title -}}
+{{- if not .IsHome }}{{ $title = printf "%s | %s" $pageTitle site.Title }}{{ end -}}
+{{- return $title -}}

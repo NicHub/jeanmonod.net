@@ -1,30 +1,34 @@
-{{- $title := .Title -}}
-{{- if .IsHome }}{{ $title = site.Title }}{{ end -}}
-{{- $description := or .Description site.Params.description -}}
-{{- $canonical := .Permalink -}}
-{{- $socialImage := printf "%simages/livres/hugo.jpg" site.BaseURL -}}
+{{- $title := partial "head/document-title.html" . -}}
+{{- $description := partial "head/description.html" . -}}
+{{- $socialImage := partial "head/social-image.html" . -}}
+{{- $socialImageAlt := partial "head/social-image-alt.html" . -}}
+{{- $canonicalURL := partial "head/production-url.html" . -}}
+{{- $articleTypes := site.Params.articleTypes | default (slice) -}}
+{{- $isArticle := and .IsPage (or site.Params.allPagesAreArticles (in $articleTypes .Type)) -}}
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ $title }}</title>
-  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-  {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
-  <meta property="og:locale" content="fr_FR">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="{{ site.Title }}">
-  <meta property="og:title" content="{{ $title }}">
-  {{ with $description }}<meta property="og:description" content="{{ . }}">{{ end }}
-  <meta property="og:url" content="{{ $canonical }}">
-  <meta property="og:image" content="{{ $socialImage }}">
-  <meta property="og:image:alt" content="{{ site.Title }}">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ $title }}">
-  {{ with $description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
-  <meta name="twitter:image" content="{{ $socialImage }}">
-  <link rel="canonical" href="{{ $canonical }}">
-  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | relURL }}">
-  <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
-  {{ with resources.Get "css/main.css" | fingerprint }}<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">{{ end }}
-  {{ with resources.Get "js/main.js" | fingerprint }}<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>{{ end }}
-  {{ partial "jsonld.html" . }}
+<meta charset="utf-8">
+<title>{{ $title }}</title>
+{{ if not hugo.IsProduction }}<meta name="robots" content="noindex, nofollow">{{ end }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
+<meta name="generator-date" content="{{ now.UTC.Format "2006-01-02T15:04:05Z" }}">
+{{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta property="og:locale" content="{{ site.Params.openGraphLocale | default "fr_CH" }}">
+<meta property="og:type" content="{{ cond $isArticle "article" "website" }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+{{ with $description }}<meta property="og:description" content="{{ . }}">{{ end }}
+<meta property="og:url" content="{{ $canonicalURL }}">
+<meta property="og:image" content="{{ $socialImage }}">
+<meta property="og:image:alt" content="{{ $socialImageAlt }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+{{ with $description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
+<meta name="twitter:image" content="{{ $socialImage }}">
+<link rel="canonical" href="{{ $canonicalURL }}">
+{{ partial "head/icon.html" . }}
+{{ partial "head/stylesheet.html" . }}
+{{ partial "head/extra.html" . }}
+{{ partial "jsonld.html" . }}
 </head>

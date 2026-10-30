@@ -1,0 +1,9 @@
+<script>
+  if (sessionStorage.getItem('hd-nav')) {
+    sessionStorage.removeItem('hd-nav');
+    document.documentElement.classList.add('no-entry-motion');
+  }
+</script>
+{{- with resources.Get "js/main.js" | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+{{- end }}
