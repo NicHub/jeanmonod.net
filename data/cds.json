@@ -1,0 +1,2180 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "alanis_morissette_1a.jpg",
+    "name": "alanis morissette 1a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "alanis_morissette_1b.jpg",
+    "name": "alanis morissette 1b"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "amy_winehouse_1.jpg",
+    "name": "amy winehouse 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "and_also_the_trees_1.jpg",
+    "name": "and also the trees 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "arno_1.jpg",
+    "name": "arno 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "arno_2.jpg",
+    "name": "arno 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "aston_villa_1.jpg",
+    "name": "aston villa 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "aston_villa_2.jpg",
+    "name": "aston villa 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "auberge_espagnole_1.jpg",
+    "name": "auberge espagnole 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bashung_1.jpg",
+    "name": "bashung 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bashung_2.jpg",
+    "name": "bashung 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bashung_3.jpg",
+    "name": "bashung 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "batteux_slaques_1.jpg",
+    "name": "batteux slaques 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bauhaus_1.jpg",
+    "name": "bauhaus 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bauhaus_2.jpg",
+    "name": "bauhaus 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bauhaus_3.jpg",
+    "name": "bauhaus 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bauhaus_4.jpg",
+    "name": "bauhaus 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bauhaus_5.jpg",
+    "name": "bauhaus 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beastie_boys_1.jpg",
+    "name": "beastie boys 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beastie_boys_2.jpg",
+    "name": "beastie boys 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beastie_boys_3.jpg",
+    "name": "beastie boys 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beatles_1.jpg",
+    "name": "beatles 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beatles_3.jpg",
+    "name": "beatles 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beatles_4.jpg",
+    "name": "beatles 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "beatles_5.jpg",
+    "name": "beatles 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ben_harper_1.jpg",
+    "name": "ben harper 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ben_harper_2.jpg",
+    "name": "ben harper 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ben_harper_3.jpg",
+    "name": "ben harper 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ben_harper_4.jpg",
+    "name": "ben harper 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "benabar_1.jpg",
+    "name": "benabar 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "benabar_2.jpg",
+    "name": "benabar 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "berurier_noir_1.jpg",
+    "name": "berurier noir 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "berurier_noir_2.jpg",
+    "name": "berurier noir 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "berurier_noir_3.jpg",
+    "name": "berurier noir 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bjork_1.jpg",
+    "name": "bjork 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bjork_2.jpg",
+    "name": "bjork 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bjork_3.jpg",
+    "name": "bjork 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bjork_4.jpg",
+    "name": "bjork 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bleu_1.jpg",
+    "name": "bleu 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bleu_2.jpg",
+    "name": "bleu 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "blur_1.jpg",
+    "name": "blur 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bob_dylan_1.jpg",
+    "name": "bob dylan 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bob_marley_1.jpg",
+    "name": "bob marley 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bob_marley_2.jpg",
+    "name": "bob marley 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "boris_vian_1.jpg",
+    "name": "boris vian 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "britten_1.jpg",
+    "name": "britten 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "buena_vista_social_club_1.jpg",
+    "name": "buena vista social club 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "bush_1.jpg",
+    "name": "bush 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cali_1.jpg",
+    "name": "cali 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "camille_1.jpg",
+    "name": "camille 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cardigans_1.jpg",
+    "name": "cardigans 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cardinal_1_verso.jpg",
+    "name": "cardinal 1 verso"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "carla_bruni_1.jpg",
+    "name": "carla bruni 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "catherine_wheel_1.jpg",
+    "name": "catherine wheel 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "charlotte_gainsbourg_1.jpg",
+    "name": "charlotte gainsbourg 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "chemical_brothers_1.jpg",
+    "name": "chemical brothers 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "chicks_on_speed_1.jpg",
+    "name": "chicks on speed 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "chloe_sainte_marie_1.jpg",
+    "name": "chloe sainte marie 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "chloe_sainte_marie_2.jpg",
+    "name": "chloe sainte marie 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_00.jpg",
+    "name": "cocteau twins 00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_01.jpg",
+    "name": "cocteau twins 01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_02.jpg",
+    "name": "cocteau twins 02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_03.jpg",
+    "name": "cocteau twins 03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_04.jpg",
+    "name": "cocteau twins 04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_05.jpg",
+    "name": "cocteau twins 05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_06.jpg",
+    "name": "cocteau twins 06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_07.jpg",
+    "name": "cocteau twins 07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_08.jpg",
+    "name": "cocteau twins 08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_09.jpg",
+    "name": "cocteau twins 09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_10.jpg",
+    "name": "cocteau twins 10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_11.jpg",
+    "name": "cocteau twins 11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cocteau_twins_12.jpg",
+    "name": "cocteau twins 12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "collana_longobarda_1.jpg",
+    "name": "collana longobarda 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "colocs_1.jpg",
+    "name": "colocs 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cowboys_fringuants.jpg",
+    "name": "cowboys fringuants"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranberries_1.jpg",
+    "name": "cranberries 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranberries_bury_the_hatchet_2.jpg",
+    "name": "cranberries bury the hatchet 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_1.jpg",
+    "name": "cranes 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_2.jpg",
+    "name": "cranes 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_3.jpg",
+    "name": "cranes 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_4.jpg",
+    "name": "cranes 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_5.jpg",
+    "name": "cranes 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_6.jpg",
+    "name": "cranes 6"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_7.jpg",
+    "name": "cranes 7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_8.jpg",
+    "name": "cranes 8"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cranes_9.jpg",
+    "name": "cranes 9"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "crow_1.jpg",
+    "name": "crow 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cucumber_forest_1.jpg",
+    "name": "cucumber forest 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cult_1.jpg",
+    "name": "cult 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_01.jpg",
+    "name": "cure 01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_02.jpg",
+    "name": "cure 02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_03.jpg",
+    "name": "cure 03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_04.jpg",
+    "name": "cure 04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_05.jpg",
+    "name": "cure 05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_06.jpg",
+    "name": "cure 06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_07.jpg",
+    "name": "cure 07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_08.jpg",
+    "name": "cure 08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_09.jpg",
+    "name": "cure 09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_10.jpg",
+    "name": "cure 10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_11.jpg",
+    "name": "cure 11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_12.jpg",
+    "name": "cure 12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_13.jpg",
+    "name": "cure 13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_14.jpg",
+    "name": "cure 14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_15.jpg",
+    "name": "cure 15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_16.jpg",
+    "name": "cure 16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_17.jpg",
+    "name": "cure 17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_18.jpg",
+    "name": "cure 18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_19.jpg",
+    "name": "cure 19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_20.jpg",
+    "name": "cure 20"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_21.jpg",
+    "name": "cure 21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_22.jpg",
+    "name": "cure 22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_23.jpg",
+    "name": "cure 23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_24.jpg",
+    "name": "cure 24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_25.jpg",
+    "name": "cure 25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_26.jpg",
+    "name": "cure 26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_27.jpg",
+    "name": "cure 27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_28.jpg",
+    "name": "cure 28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_29.jpg",
+    "name": "cure 29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_30.jpg",
+    "name": "cure 30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_31.jpg",
+    "name": "cure 31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_32.jpg",
+    "name": "cure 32"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_33.jpg",
+    "name": "cure 33"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_34.jpg",
+    "name": "cure 34"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_35.jpg",
+    "name": "cure 35"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_36.jpg",
+    "name": "cure 36"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_37.jpg",
+    "name": "cure 37"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_38.jpg",
+    "name": "cure 38"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_39.jpg",
+    "name": "cure 39"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_40.jpg",
+    "name": "cure 40"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cure_41.jpg",
+    "name": "cure 41"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "curve_1.jpg",
+    "name": "curve 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "cypress_hill_1.jpg",
+    "name": "cypress hill 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daft_punk_1.jpg",
+    "name": "daft punk 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daniel_ash_1.jpg",
+    "name": "daniel ash 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daniel_belanger_1.jpg",
+    "name": "daniel belanger 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daniel_belanger_2.jpg",
+    "name": "daniel belanger 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daniel_belanger_3.jpg",
+    "name": "daniel belanger 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "daniel_belanger_4.jpg",
+    "name": "daniel belanger 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dead_can_dance_1.jpg",
+    "name": "dead can dance 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dead_can_dance_2.jpg",
+    "name": "dead can dance 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dead_can_dance_3.jpg",
+    "name": "dead can dance 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dead_can_dance_4.jpg",
+    "name": "dead can dance 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "depeche_mode_1.jpg",
+    "name": "depeche mode 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dexter_gordon_1.jpg",
+    "name": "dexter gordon 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dionysos_1.jpg",
+    "name": "dionysos 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "do_1.jpg",
+    "name": "do 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "doba_caracol_1.jpg",
+    "name": "doba caracol 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dolly_1.jpg",
+    "name": "dolly 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dominique_phillot_1.jpg",
+    "name": "dominique phillot 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "donovans_1.jpg",
+    "name": "donovans 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "doors_1.jpg",
+    "name": "doors 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "double_vie_de_veronique_1.jpg",
+    "name": "double vie de veronique 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dutronc_1.jpg",
+    "name": "dutronc 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dutronc_compil_2_cd.jpg",
+    "name": "dutronc compil 2 cd"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "dutronc_integrale_5_cd.jpg",
+    "name": "dutronc integrale 5 cd"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "edie_brickel_1.jpg",
+    "name": "edie brickel 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "edith_piaf.jpg",
+    "name": "edith piaf"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "eels_1.jpg",
+    "name": "eels 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "elmer_food_beat_1.jpg",
+    "name": "elmer food beat 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "emilie_simon_1.jpg",
+    "name": "emilie simon 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "eric_clapton_1.jpg",
+    "name": "eric clapton 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "erick_ferini_1.jpg",
+    "name": "erick ferini 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "fall_1.jpg",
+    "name": "fall 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "favez_1.jpg",
+    "name": "favez 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "flamenco_1.jpg",
+    "name": "flamenco 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "frank_black_1.jpg",
+    "name": "frank black 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "fred_fortin_1.jpg",
+    "name": "fred fortin 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "free_cheese_for_all_1.jpg",
+    "name": "free cheese for all 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "front_242_1.jpg",
+    "name": "front 242 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "fun_loving_criminals_1.jpg",
+    "name": "fun loving criminals 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "gavin_friday_1.jpg",
+    "name": "gavin friday 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "gola_1.jpg",
+    "name": "gola 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "gola_2.jpg",
+    "name": "gola 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "guitare_passion_1.jpg",
+    "name": "guitare passion 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "hable_con_ella_1.jpg",
+    "name": "hable con ella 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "hear_and_know_1_verso.jpg",
+    "name": "hear and know 1 verso"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "heather_nova_1.jpg",
+    "name": "heather nova 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "hooverphonic_1.jpg",
+    "name": "hooverphonic 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "izul_1.jpg",
+    "name": "izul 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jad_wio_1.jpg",
+    "name": "jad wio 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "james_blunt_1.jpg",
+    "name": "james blunt 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jane_birkin_1.jpg",
+    "name": "jane birkin 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jaques_brel_1.jpg",
+    "name": "jaques brel 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean-louis_aubert_1.jpg",
+    "name": "jean louis aubert 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean_leloup_1.jpg",
+    "name": "jean leloup 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean_leloup_2.jpg",
+    "name": "jean leloup 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean_leloup_3.jpg",
+    "name": "jean leloup 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean_leloup_4.jpg",
+    "name": "jean leloup 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jean_leloup_5.jpg",
+    "name": "jean leloup 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jesus_and_mary_chain_1.jpg",
+    "name": "jesus and mary chain 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jesus_and_mary_chain_2.jpg",
+    "name": "jesus and mary chain 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jesus_and_mary_chain_3.jpg",
+    "name": "jesus and mary chain 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jesus_and_mary_chain_4.jpg",
+    "name": "jesus and mary chain 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "jimmy_page_robert_plant_1.jpg",
+    "name": "jimmy page robert plant 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "joan_osborne_1.jpg",
+    "name": "joan osborne 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "joy_division_1.jpg",
+    "name": "joy division 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "k_1.jpg",
+    "name": "k 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "kanasuta_1.jpg",
+    "name": "kanasuta 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "kasabian_1.jpg",
+    "name": "kasabian 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "keith_jarrett_1.jpg",
+    "name": "keith jarrett 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "kevin_parent_grand_parleur_petit_faiseur.jpg",
+    "name": "kevin parent grand parleur petit faiseur"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "kills_1.jpg",
+    "name": "kills 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "kinks_1.jpg",
+    "name": "kinks 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "l7_1.jpg",
+    "name": "l7 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "led_zeppelin_1.jpg",
+    "name": "led zeppelin 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "led_zeppelin_2.jpg",
+    "name": "led zeppelin 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "leonard_cohen_1.jpg",
+    "name": "leonard cohen 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lili_fatale_1.jpg",
+    "name": "lili fatale 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "loreena_mc_kennitt_1.jpg",
+    "name": "loreena mc kennitt 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "loreena_mc_kennitt_2.jpg",
+    "name": "loreena mc kennitt 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "louise_attaque_1.jpg",
+    "name": "louise attaque 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "louise_attaque_2.jpg",
+    "name": "louise attaque 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "luke_1.jpg",
+    "name": "luke 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lush_1.jpg",
+    "name": "lush 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lush_2.jpg",
+    "name": "lush 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lydon_1.jpg",
+    "name": "lydon 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lynda_lemay_1.jpg",
+    "name": "lynda lemay 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lynda_lemay_2.jpg",
+    "name": "lynda lemay 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "lynda_lemay_3.jpg",
+    "name": "lynda lemay 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "macy_gray_1.jpg",
+    "name": "macy gray 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mano_negra_1.jpg",
+    "name": "mano negra 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mano_negra_2.jpg",
+    "name": "mano negra 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mano_solo_1.jpg",
+    "name": "mano solo 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mano_solo_2.jpg",
+    "name": "mano solo 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "manu_chao_1a.jpg",
+    "name": "manu chao 1a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "manu_chao_1b.jpg",
+    "name": "manu chao 1b"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "manuel_barrueco_1.jpg",
+    "name": "manuel barrueco 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "maozinha_1.jpg",
+    "name": "maozinha 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "marianne_faithfull_1.jpg",
+    "name": "marianne faithfull 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "masses_and_memorial_1.jpg",
+    "name": "masses and memorial 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "massive_attack_1.jpg",
+    "name": "massive attack 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "massive_attack_2.jpg",
+    "name": "massive attack 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "massive_attack_3.jpg",
+    "name": "massive attack 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "massive_attack_4.jpg",
+    "name": "massive attack 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "men_at_work_1.jpg",
+    "name": "men at work 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mercan_dede_1.jpg",
+    "name": "mercan dede 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "midnight_oil_1.jpg",
+    "name": "midnight oil 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "midnight_oil_2.jpg",
+    "name": "midnight oil 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "miyage_1.jpg",
+    "name": "miyage 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "morcheeba_1.jpg",
+    "name": "morcheeba 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mozart_1.jpg",
+    "name": "mozart 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "mozart_2.jpg",
+    "name": "mozart 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "muse_1.jpg",
+    "name": "muse 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "musique_pour_la_meditation_1.jpg",
+    "name": "musique pour la meditation 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "negresses_vertes_1.jpg",
+    "name": "negresses vertes 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "negresses_vertes_2.jpg",
+    "name": "negresses vertes 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "new_model_army_1.jpg",
+    "name": "new model army 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "nirvana_1.jpg",
+    "name": "nirvana 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "nirvana_2.jpg",
+    "name": "nirvana 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "nirvana_3.jpg",
+    "name": "nirvana 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_1.jpg",
+    "name": "noir desir 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_2.jpg",
+    "name": "noir desir 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_3.jpg",
+    "name": "noir desir 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_4.jpg",
+    "name": "noir desir 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_5.jpg",
+    "name": "noir desir 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_6.jpg",
+    "name": "noir desir 6"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "noir_desir_7.jpg",
+    "name": "noir desir 7"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "norah_jones_1.jpg",
+    "name": "norah jones 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "nouveau_quotidien_1.jpg",
+    "name": "nouveau quotidien 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "olivia_ruiz_1.jpg",
+    "name": "olivia ruiz 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "paul_piche_1.jpg",
+    "name": "paul piche 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "peter_gabriel_1.jpg",
+    "name": "peter gabriel 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "peter_gabriel_2.jpg",
+    "name": "peter gabriel 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "phillip_boa_1.jpg",
+    "name": "phillip boa 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pieces_pour_guitare_1.jpg",
+    "name": "pieces pour guitare 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pil_1.jpg",
+    "name": "pil 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pil_2.jpg",
+    "name": "pil 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pil_3.jpg",
+    "name": "pil 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pink_floyd_1.jpg",
+    "name": "pink floyd 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pink_floyd_2.jpg",
+    "name": "pink floyd 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pink_martini_1.jpg",
+    "name": "pink martini 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pixies_1.jpg",
+    "name": "pixies 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pixies_2.jpg",
+    "name": "pixies 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pixies_3.jpg",
+    "name": "pixies 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pixies_4.jpg",
+    "name": "pixies 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pixies_5.jpg",
+    "name": "pixies 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pj_harvey_1.jpg",
+    "name": "pj harvey 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pj_harvey_2.jpg",
+    "name": "pj harvey 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pj_harvey_3.jpg",
+    "name": "pj harvey 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "pj_harvey_4.jpg",
+    "name": "pj harvey 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "placebo_1.jpg",
+    "name": "placebo 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "placebo_2.jpg",
+    "name": "placebo 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "placebo_3.jpg",
+    "name": "placebo 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "placebo_4.jpg",
+    "name": "placebo 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "placebo_5.jpg",
+    "name": "placebo 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "police_1.jpg",
+    "name": "police 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "portishead_1.jpg",
+    "name": "portishead 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "portishead_2.jpg",
+    "name": "portishead 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "portishead_3.jpg",
+    "name": "portishead 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "prince_1.jpg",
+    "name": "prince 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "prodigy_1.jpg",
+    "name": "prodigy 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "radiateurs_1.jpg",
+    "name": "radiateurs 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "radiohead_1.jpg",
+    "name": "radiohead 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "radiohead_2.jpg",
+    "name": "radiohead 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "radiohead_3.jpg",
+    "name": "radiohead 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rage_against_the_machine_1.jpg",
+    "name": "rage against the machine 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rage_against_the_machine_2.jpg",
+    "name": "rage against the machine 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "raphael_1.jpg",
+    "name": "raphael 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ravel_mussorgsky_1.jpg",
+    "name": "ravel mussorgsky 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "red_hot_chili_peppers_1.jpg",
+    "name": "red hot chili peppers 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "red_hot_chili_peppers_2.jpg",
+    "name": "red hot chili peppers 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "red_hot_chili_peppers_3.jpg",
+    "name": "red hot chili peppers 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rem_1.jpg",
+    "name": "rem 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rem_2.jpg",
+    "name": "rem 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "renaud_1.jpg",
+    "name": "renaud 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "renaud_2.jpg",
+    "name": "renaud 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "renaud_3.jpg",
+    "name": "renaud 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ride_1.jpg",
+    "name": "ride 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rita_mitsouko_1.jpg",
+    "name": "rita mitsouko 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rolling_stones_1.jpg",
+    "name": "rolling stones 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "rolling_stones_2.jpg",
+    "name": "rolling stones 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "romeo_et_juliette_1.jpg",
+    "name": "romeo et juliette 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "romeo_et_juliette_2.jpg",
+    "name": "romeo et juliette 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "scheherazade_1.jpg",
+    "name": "scheherazade 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "serge_gainsbourg_1.jpg",
+    "name": "serge gainsbourg 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sheryl_crow_1.jpg",
+    "name": "sheryl crow 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sheryl_crow_2.jpg",
+    "name": "sheryl crow 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sinclair_1.jpg",
+    "name": "sinclair 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sinclair_2.jpg",
+    "name": "sinclair 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sinead_oconnor_1.jpg",
+    "name": "sinead oconnor 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sinead_oconnor_2.jpg",
+    "name": "sinead oconnor 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sizanne_vega_1.jpg",
+    "name": "sizanne vega 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "skunk_anansie_1.jpg",
+    "name": "skunk anansie 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "skye_1.jpg",
+    "name": "skye 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sonic_youth_1.jpg",
+    "name": "sonic youth 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sonic_youth_2.jpg",
+    "name": "sonic youth 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sophie_hunger_1.jpg",
+    "name": "sophie hunger 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "sound_and_pictures.jpg",
+    "name": "sound and pictures"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "souxie_and_the_banshees_1.jpg",
+    "name": "souxie and the banshees 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "spanish_guitar_1.jpg",
+    "name": "spanish guitar 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "stan_getz_1.jpg",
+    "name": "stan getz 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "stephan_eicher.jpg",
+    "name": "stephan eicher"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "stereo_total_1.jpg",
+    "name": "stereo total 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "stooges_1.jpg",
+    "name": "stooges 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "suzanne_vega_1.jpg",
+    "name": "suzanne vega 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "suzanne_vega_2.jpg",
+    "name": "suzanne vega 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "suzanne_vega_3.jpg",
+    "name": "suzanne vega 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "suzanne_vega_4.jpg",
+    "name": "suzanne vega 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "suzanne_vega_5.jpg",
+    "name": "suzanne vega 5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "swag_1.jpg",
+    "name": "swag 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "swandive_1.jpg",
+    "name": "swandive 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "t_bone_walker_1.jpg",
+    "name": "t bone walker 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "telephone_1.jpg",
+    "name": "telephone 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tiken_jah_fakoly_1.jpg",
+    "name": "tiken jah fakoly 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tori_amos_1a.jpg",
+    "name": "tori amos 1a"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tori_amos_1b.jpg",
+    "name": "tori amos 1b"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tori_amos_2.jpg",
+    "name": "tori amos 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tori_amos_3.jpg",
+    "name": "tori amos 3"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tori_amos_4.jpg",
+    "name": "tori amos 4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "tracy_chapman_1.jpg",
+    "name": "tracy chapman 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "ultra_vivid_scene_1.jpg",
+    "name": "ultra vivid scene 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "verdi_1.jpg",
+    "name": "verdi 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "vieja_trova_santiaguera_1.jpg",
+    "name": "vieja trova santiaguera 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "wall_of_woodoo_1.jpg",
+    "name": "wall of woodoo 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "walter_abt_1.jpg",
+    "name": "walter abt 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "yael_naim_1.jpg",
+    "name": "yael naim 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "young_gods_1.jpg",
+    "name": "young gods 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "young_gods_2.jpg",
+    "name": "young gods 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "zaza_fournier_1.jpg",
+    "name": "zaza fournier 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "zazie_1.jpg",
+    "name": "zazie 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "zazie_2.jpg",
+    "name": "zazie 2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "zorg_1.jpg",
+    "name": "zorg 1"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "image": "zuriwest.jpg",
+    "name": "zuriwest"
+  }
+]

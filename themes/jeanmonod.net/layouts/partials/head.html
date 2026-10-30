@@ -1,0 +1,29 @@
+{{- $title := .Title -}}
+{{- if .IsHome }}{{ $title = site.Title }}{{ end -}}
+{{- $description := or .Description site.Params.description -}}
+{{- $canonical := .Permalink -}}
+{{- $socialImage := printf "%simages/livres/hugo.jpg" site.BaseURL -}}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ $title }}</title>
+  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:title" content="{{ $title }}">
+  {{ with $description }}<meta property="og:description" content="{{ . }}">{{ end }}
+  <meta property="og:url" content="{{ $canonical }}">
+  <meta property="og:image" content="{{ $socialImage }}">
+  <meta property="og:image:alt" content="{{ site.Title }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ $title }}">
+  {{ with $description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
+  <meta name="twitter:image" content="{{ $socialImage }}">
+  <link rel="canonical" href="{{ $canonical }}">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | relURL }}">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+  {{ with resources.Get "css/main.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">{{ end }}
+  {{ partial "jsonld.html" . }}
+</head>

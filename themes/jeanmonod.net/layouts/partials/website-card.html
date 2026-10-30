@@ -1,0 +1,7 @@
+{{- $unavailable := not .validLink -}}
+<article class="website-card{{ if $unavailable }} is-unavailable{{ end }}">
+  {{ if not $unavailable }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name }}">{{ end }}
+  <img src="{{ printf "/images/sites_web/%s" .image | relURL }}" alt="{{ .name }}" loading="lazy">
+  {{ if not $unavailable }}</a>{{ end }}
+  <h2>{{ .name }}</h2>
+</article>

@@ -1,0 +1,6 @@
+{{- $pageType := "WebPage" -}}
+{{- if .IsHome }}{{ $pageType = "WebSite" }}{{ end -}}
+<script type="application/ld+json">{{ (dict "@context" "https://schema.org" "@type" $pageType "name" .Title "url" .Permalink "description" (or .Description site.Params.description)) | jsonify | safeJS }}</script>
+{{- if eq .Type "portfolio-books" }}<script type="application/ld+json">[{{ range $index, $item := hugo.Data.books }}{{ if $index }},{{ end }}{{ $item = merge (dict) $item }}{{ $item = merge $item (dict "image" (printf "%simages/livres/%s" site.BaseURL $item.image)) }}{{ $item | jsonify | safeJS }}{{ end }}]</script>{{ end }}
+{{- if eq .Type "portfolio-websites" }}<script type="application/ld+json">[{{ range $index, $item := hugo.Data.websites }}{{ if $index }},{{ end }}{{ $item = merge (dict) $item }}{{ $item = merge $item (dict "image" (printf "%simages/sites_web/%s" site.BaseURL $item.image)) }}{{ $item | jsonify | safeJS }}{{ end }}]</script>{{ end }}
+{{- if eq .Type "portfolio-cds" }}<script type="application/ld+json">[{{ range $index, $item := hugo.Data.cds }}{{ if $index }},{{ end }}{{ $item = merge (dict) $item }}{{ $item = merge $item (dict "image" (printf "%simages/cd/images/%s" site.BaseURL $item.image)) }}{{ $item | jsonify | safeJS }}{{ end }}]</script>{{ end }}

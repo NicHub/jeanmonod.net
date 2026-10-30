@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ if eq .Type "portfolio-books" }}
+    {{ partial "portfolio-books.html" . }}
+  {{ else if eq .Type "portfolio-websites" }}
+    {{ partial "portfolio-websites.html" . }}
+  {{ else if eq .Type "portfolio-cds" }}
+    {{ partial "portfolio-cds.html" . }}
+  {{ else }}
+    <article class="portfolio"><h1>{{ .Title }}</h1>{{ .Content }}</article>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,29 @@
+baseURL: https://jeanmonod.net/
+locale: fr-FR
+defaultContentLanguage: fr
+title: Nicolas Jeanmonod
+theme: jeanmonod.net
+enableRobotsTXT: true
+module:
+  mounts:
+    - source: static
+      target: static
+    - source: data
+      target: data
+    - source: data
+      target: static/data
+params:
+  author: Nicolas Jeanmonod
+  description: "Portfolio de Nicolas Jeanmonod : livres, sites web et CD."
+  favicon: /favicon.ico
+outputs:
+  home:
+    - HTML
+    - Sitemap
+disableKinds:
+  - taxonomy
+  - term
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

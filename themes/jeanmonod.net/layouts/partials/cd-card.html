@@ -1,0 +1,5 @@
+{{- $caption := replaceRE "[_-]+" " " (path.BaseName .image) -}}
+<article class="cd-card">
+  <img src="{{ printf "/images/cd/images/%s" .image | relURL }}" alt="{{ $caption }}" loading="lazy">
+  <span>{{ $caption }}</span>
+</article>
