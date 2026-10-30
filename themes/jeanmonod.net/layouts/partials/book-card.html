@@ -1,8 +1,8 @@
 {{- $href := .url -}}
 {{- $unavailable := eq .availability "https://schema.org/out-of-stock" -}}
-<article class="book-card{{ if $unavailable }} is-unavailable{{ end }}">
-  {{ if and $href (not $unavailable) }}<a href="{{ $href }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name }}">{{ end }}
-  <img src="{{ printf "/images/livres/%s" .image | relURL }}" alt="{{ .name }}" loading="lazy">
+<article class="book-card{{ if $unavailable }} is-unavailable{{ end }}"{{ if $unavailable }} title="Cet ouvrage n’est plus disponible."{{ end }}>
+  {{ if and $href (not $unavailable) }}<a href="{{ $href }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name }}" title="{{ .name }}">{{ end }}
+  <img src="{{ printf "/images/livres/%s" .image | relURL }}" alt="{{ .name }}" width="200" height="300" loading="lazy">
   {{ if and $href (not $unavailable) }}</a>{{ end }}
-  <h2>{{ .name }}</h2>
+  <h2 class="visually-hidden">{{ .name }}</h2>
 </article>

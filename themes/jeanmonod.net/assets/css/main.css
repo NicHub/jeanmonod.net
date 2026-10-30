@@ -1,31 +1,219 @@
-:root { --text: #505050; --accent: #337ab7; --muted: #ddd; --gap: 1.5rem; }
-* { box-sizing: border-box; }
-html { font-size: 100%; }
-body { margin: 0; color: var(--text); font: 300 1rem/1.5 "Source Sans Pro", system-ui, sans-serif; text-align: center; }
-a { color: var(--accent); text-decoration: none; }
-a:hover, a:focus-visible { text-decoration: underline; }
-.site-header { min-height: 170px; padding: 4rem 1rem 2rem; }
-.site-brand { color: inherit; font-size: 1.2rem; letter-spacing: .04em; }
-.site-header nav { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-top: 1.5rem; }
-.site-main { width: min(1120px, calc(100% - 2rem)); margin: 0 auto; }
-h1 { margin: 0 0 2rem; font-size: clamp(1.5rem, 3vw, 2.2rem); text-transform: uppercase; }
-.home-panel { padding: 1rem 0 3rem; }
-.home-links { display: grid; gap: .8rem; width: min(360px, 100%); margin: 0 auto 4.5rem; }
-.home-links a { padding: .75rem 1rem; border: 1px solid var(--accent); border-radius: .2rem; font-size: 1.15rem; }
-.email { font-size: .95rem; }
-.ornament { margin-top: 1.5rem; font-size: 3rem; }
-.portfolio { padding-bottom: 3rem; }
-.book-grid, .website-grid, .cd-grid { display: grid; gap: var(--gap); align-items: start; }
-.book-grid, .cd-grid { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
-.website-grid { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
-.book-card, .website-card, .cd-card { min-width: 0; }
-.book-card img, .website-card img, .cd-card img { display: block; width: 100%; height: auto; margin: 0 auto; object-fit: contain; }
-.book-card img { max-width: 200px; aspect-ratio: 2 / 3; object-fit: cover; }
-.website-card img { max-height: 260px; }
-.cd-card { position: relative; }
-.cd-card img { aspect-ratio: 1; object-fit: cover; }
-.cd-card span { display: block; padding: .5rem; color: var(--accent); font-weight: 600; text-transform: uppercase; }
-.book-card h2, .website-card h2 { margin: .6rem 0 0; font-size: .9rem; font-weight: 400; }
-.is-unavailable { cursor: not-allowed; opacity: .6; }
-.site-footer { padding: 1rem 1rem 3rem; font-size: 3rem; }
-@media (max-width: 600px) { .site-header { min-height: 130px; padding-top: 2.5rem; } .website-grid { grid-template-columns: 1fr; } .book-grid, .cd-grid { gap: 1rem; } }
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap");
+
+/* Base commune : typographie légère et mise en page centrée. */
+:root {
+    --accent: #337ab7;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    color: #505050;
+    background: #fff;
+    font: 300 14px/1.43 "Source Sans Pro", sans-serif;
+    text-align: center;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+a:focus-visible, .cd-card:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 5px;
+}
+
+.site-header {
+    height: 250px;
+    padding: 80px 15px 0;
+}
+
+.site-header nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 24px;
+}
+
+.site-main {
+    width: min(1170px, calc(100% - 30px));
+    margin: auto;
+}
+
+h1 {
+    margin: 0 0 60px;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.1;
+    text-transform: uppercase;
+}
+
+.cd-title {
+    text-transform: none;
+}
+
+/* Titres conservés pour les lecteurs d’écran, sans légende sous les images. */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+/* Accueil. */
+.home-links {
+    display: grid;
+    gap: 5px;
+    width: min(360px, 85%);
+    margin: 0 auto 75px;
+}
+
+.home-links a {
+    padding: 10px 16px;
+    border: 1px solid #2e6da4;
+    border-radius: 6px;
+    background: var(--accent);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.333;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 20%);
+}
+
+.home-links a:hover, .home-links a:focus-visible {
+    background: #286090;
+    text-decoration: none;
+}
+
+.email {
+    font-size: 1rem;
+}
+
+.site-footer {
+    padding: 25px 15px 10px;
+    font-size: 4rem;
+    opacity: .9;
+}
+
+/* Galeries : trois grilles, une seule règle d’ombre. */
+.portfolio {
+    padding: 20px 0 50px;
+}
+
+.book-grid, .website-grid, .cd-grid {
+    display: grid;
+    align-items: start;
+    row-gap: 100px;
+}
+
+.book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.book-card a, .website-card a {
+    display: block;
+}
+
+.portfolio img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    box-shadow: 0 16px 28px rgb(0 0 0 / 22%), 0 25px 55px rgb(0 0 0 / 21%);
+}
+
+.book-card img {
+    width: 130px;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+}
+
+.website-card {
+    width: 83.333%;
+    justify-self: center;
+}
+
+.website-card img {
+    width: 100%;
+}
+
+.is-unavailable {
+    cursor: not-allowed;
+    opacity: .6;
+}
+
+.cd-card {
+    position: relative;
+    width: min(80vw, 100%);
+    margin: 0;
+    justify-self: center;
+}
+
+.cd-card img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.cd-card figcaption {
+    position: absolute;
+    inset: auto 0 0;
+    padding: 10px;
+    background: rgb(255 255 255 / 80%);
+    color: var(--accent);
+    font-weight: 600;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity .2s;
+}
+
+.cd-card:hover figcaption, .cd-card:focus-visible figcaption {
+    opacity: 1;
+}
+
+@media (min-width: 768px) {
+    .book-grid, .cd-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .website-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .book-card img {
+        width: 200px;
+    }
+    .cd-card {
+        width: 210px;
+    }
+}
+
+@media (min-width: 992px) {
+    .book-grid, .cd-grid {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+@media (hover: none) {
+    .cd-card figcaption {
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .cd-card figcaption {
+        transition: none;
+    }
+}
