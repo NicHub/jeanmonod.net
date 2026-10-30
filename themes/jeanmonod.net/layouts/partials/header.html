@@ -1,10 +1,15 @@
 <header class="site-header">
-  <a class="site-brand" href="{{ site.Home.RelPermalink }}"><b>JEANMONOD</b>.NET</a>
-  {{ if not .IsHome }}
+  <a class="site-brand" href="{{ site.Home.RelPermalink }}" data-page-nav="home"><b>JEANMONOD</b>.NET</a>
+  {{ if .IsHome }}
+    <a class="visually-hidden" data-page-nav="prev" href="{{ "cds.html" | relURL }}">Portfolio précédent : CD’s</a>
+    <a class="visually-hidden" data-page-nav="next" href="{{ "portfolio_livres.html" | relURL }}">Portfolio suivant : Livres</a>
+  {{ else }}
     <nav aria-label="Navigation principale">
-      <a href="{{ "portfolio_livres.html" | relURL }}">Livres</a>
-      <a href="{{ "portfolio_sites_web.html" | relURL }}">Sites web</a>
-      <a href="{{ "cds.html" | relURL }}">CD’s</a>
+      <a href="{{ "portfolio_livres.html" | relURL }}"{{ if eq .RelPermalink ("portfolio_sites_web.html" | relURL) }} data-page-nav="prev"{{ end }}{{ if eq .RelPermalink ("portfolio_livres.html" | relURL) }} aria-current="page"{{ end }}>Livres</a>
+      <a href="{{ "portfolio_sites_web.html" | relURL }}"{{ if eq .RelPermalink ("portfolio_livres.html" | relURL) }} data-page-nav="next"{{ end }}{{ if eq .RelPermalink ("portfolio_sites_web.html" | relURL) }} aria-current="page"{{ end }}{{ if eq .RelPermalink ("cds.html" | relURL) }} data-page-nav="prev"{{ end }}>Sites web</a>
+      <a href="{{ "cds.html" | relURL }}"{{ if eq .RelPermalink ("portfolio_sites_web.html" | relURL) }} data-page-nav="next"{{ end }}{{ if eq .RelPermalink ("cds.html" | relURL) }} aria-current="page"{{ end }}>CD’s</a>
     </nav>
+    {{ if eq .RelPermalink ("portfolio_livres.html" | relURL) }}<a class="visually-hidden" data-page-nav="prev" href="{{ site.Home.RelPermalink }}">Portfolio précédent : accueil</a>{{ end }}
+    {{ if eq .RelPermalink ("cds.html" | relURL) }}<a class="visually-hidden" data-page-nav="next" href="{{ site.Home.RelPermalink }}">Portfolio suivant : accueil</a>{{ end }}
   {{ end }}
 </header>
