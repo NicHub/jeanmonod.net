@@ -1,9 +1,11 @@
-baseURL: https://jeanmonod.net/
-locale: fr-FR
+locale: fr-CH
 defaultContentLanguage: fr
 title: Nicolas Jeanmonod
 theme: jeanmonod.net
 enableRobotsTXT: true
+publishDir: .hugo_nokdrive/public
+resourceDir: .hugo_nokdrive/resources
+
 module:
   mounts:
     - source: static
@@ -12,17 +14,26 @@ module:
       target: data
     - source: data
       target: static/data
+
 params:
   author: Nicolas Jeanmonod
   description: "Portfolio de Nicolas Jeanmonod : livres, sites web et CD."
   favicon: /favicon.ico
+  faviconType: image/x-icon
+  openGraphLocale: fr_CH
+  productionBaseURL: https://jeanmonod.net
+  socialImage: images/livres/hugo.jpg
+  socialImageAlt: Portfolio de Nicolas Jeanmonod
+
 outputs:
   home:
     - HTML
     - Sitemap
+
 disableKinds:
   - taxonomy
   - term
+
 markup:
   goldmark:
     renderer:

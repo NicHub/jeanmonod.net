@@ -1,5 +1,6 @@
 /public/
 /resources/
+/.hugo_nokdrive/
 .hugo_build.lock
 .DS_Store
 /jeanmonod.net---old/
