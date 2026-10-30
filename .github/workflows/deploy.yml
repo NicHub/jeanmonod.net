@@ -53,7 +53,6 @@ jobs:
         run: |
           hugo build --environment production \
             --gc \
-            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
 
